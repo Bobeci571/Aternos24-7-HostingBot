@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "bozho_bobera.aternos.me:30434",
+    "port": 30434,
     "version": "",
     "try-creative": false
   },
